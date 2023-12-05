@@ -14,6 +14,21 @@ This Python script organizes files from a source directory to a destination dire
 
 3. The script will organize files based on their extensions into specific folders in the destination directory.
 
+### Using the Executable (Windows)
+
+If you're using a Windows operating system and don't have Python installed, you can use the provided executable file. Follow these steps:
+
+1. **Download the ZIP file:**
+   - Download the ZIP file named `File Organizer.zip`.
+
+2. **Extract the ZIP file:**
+   - Extract the contents of `File Organizer.zip` to a location of your choice.
+
+3. **Run the Executable:**
+   - Inside the extracted `File Organizer` folder, go into the 'dist' folder, double-click on `file_organizer.exe`.
+   - The script will run, and you can follow the on-screen prompts.
+
+
 ## Features
 
 - **Supported File Categories:**
@@ -33,7 +48,7 @@ This Python script organizes files from a source directory to a destination dire
 - **User Interaction:**
     - The script prompts the user to input source and destination paths.
 
-## Requirements
+## Requirements (if using the python script)
 
 - Python 3.x
 - `shutil` library (part of the Python standard library)
