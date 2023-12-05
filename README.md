@@ -41,7 +41,3 @@ This Python script organizes files from a source directory to a destination dire
 ## Contributing
 
 Feel free to contribute to the project by opening issues or submitting pull requests.
-
-
-Make sure to include a `LICENSE` file with the appropriate license text if you choose a specific license for your project. You can customize this `readme.md` 
-file further based on your preferences and project details.
