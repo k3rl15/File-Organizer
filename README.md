@@ -4,10 +4,10 @@ This Python script organizes files from a source directory to a destination dire
 
 ## Usage
 
-1. Run the script (`organize_files.py`) using Python:
+1. Run the script (`file_organizer.py`) using Python:
 
     ```bash
-    python organize_files.py
+    python file_organizer.py
     ```
 
 2. Enter the source and destination paths as prompted.
